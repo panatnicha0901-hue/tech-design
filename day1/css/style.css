@@ -1,0 +1,31 @@
+body {
+    background-color: #FEDD32;
+}
+
+#heading-hero {
+    position: relative;
+    display: flex;
+    background: red;
+    color: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box {
+    position: absolute;
+    background: blue;
+    color: white;
+    top: 100px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+#nav-bar {
+    position: fixed;
+    bottom: 12px;
+    background: red;
+    color: yellow;
+    padding: 10px;
+    margin: 10px;
+}
